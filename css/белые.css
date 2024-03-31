@@ -1,0 +1,110 @@
+body{
+	background-color: black;
+	
+	scroll-behavior: smooth;
+	overflow-y: scroll;
+	-webkit-overflow-scrolling: touch;
+	height: 1500px;
+
+
+}
+
+::-webkit-scrollbar {
+    display: none;
+
+}
+
+.logo{
+  width: 70px;
+  height: 70px;
+  padding: 20px 10px;
+  
+  
+
+}
+
+.ilogo{
+  width: 65px;
+  height: 65px;
+}
+
+.video{
+width: 640px;	
+height: 360px;
+position: relative;
+margin-left: auto;
+margin-right: auto;
+margin-top: 100px;
+}
+
+h1{
+	color: white;
+
+}
+
+.name{
+	margin-top: -130px;
+	text-align: center;
+	font-family: Dela Gothic One;
+	font-size: 50px auto;
+
+}
+
+.info{
+	margin-left: auto;
+    margin-right: auto;
+	margin-top: 120px;
+	width: 985px;
+	align-content: center;
+	
+	font-size: 22px;
+}
+
+
+p{
+	color: white;
+}
+
+h2{
+	color: white;
+	font-family: Dela Gothic One;
+}
+
+.rectangle {
+	text-align: center;
+
+    border-radius: 50px; /* толщина и цвет границы */
+    padding: 20px; /* отступ внутри прямоугольника */
+    width: 150px; /* ширина прямоугольника */
+    background-color: ghostwhite;
+    margin-top: 60px;
+   margin-left: auto;
+margin-right: auto;
+
+  }
+
+  a{
+  	font-family: Dela Gothic One;
+  	font-size: 20px;
+  	text-decoration: none;
+color: black;
+  }
+
+a:hover {
+  color: #6B4925;
+}
+
+.rectangl{
+
+text-align: center;
+
+border-radius: 50px; 
+padding: 20px; 
+width: 150px; 
+background-color: ghostwhite;
+margin-left: auto;
+margin-right: auto;
+
+
+
+}
